@@ -31,6 +31,17 @@ Noteify is a simple web application for managing notes. It allows users to creat
 2. Sign up for a new account or log in if you already have an account.
 3. Once logged in, you can create, view, edit, and delete your notes from the dashboard.
 
+## How to Run the Program
+
+To run the Noteify application on your local machine, follow these steps:
+
+1. Clone the repository to your local machine using the `git clone` command.
+2. Navigate to the project directory in your terminal.
+3. Install the required dependencies using `pip install -r requirements.txt`.
+4. Set up a MySQL database named `noteify` and update the database configuration in `config.py`.
+5. Run the application using the command `python app.py`.
+6. Access the application in your web browser at `http://localhost:5000`.
+7. 
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to Noteify, please follow these steps:
