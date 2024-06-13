@@ -41,7 +41,7 @@ To run the Noteify application on your local machine, follow these steps:
 4. Set up a MySQL database named `noteify` and update the database configuration in `config.py`.
 5. Run the application using the command `python app.py`.
 6. Access the application in your web browser at `http://localhost:5000`.
-7. 
+ 
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to Noteify, please follow these steps:
